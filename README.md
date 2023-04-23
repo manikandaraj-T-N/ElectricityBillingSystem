@@ -34,10 +34,6 @@ Contributing:-
 Contributions to the "Electricity Billing System Using Java" project are welcome. You can contribute by forking the project, making changes, 
 and submitting a pull request. Please make sure to follow the coding conventions and include appropriate documentation for any changes made.
 
-
-Contact:-
-For any queries or support, please contact the project maintainers via email at [manikandarajnataraj@gmail.com]
-
 Acknowledgments:
 
 We would like to acknowledge the support and contributions of the open-source community, without which this project would not have been possible. 
